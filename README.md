@@ -1,10 +1,6 @@
 # CryptoTradePyAlgorithm
 
-Certainly, here's the updated README file with an "Output" section added to the table of contents:
-
 ---
-
-# CryptoTradePyAlgorithm
 
 CryptoTradePyAlgorithm is a Python-based project designed to facilitate algorithmic trading strategies for the cryptocurrency market. The primary objective of this project is to empower traders with an automated approach to cryptocurrency trading, with a specific focus on strategies involving simple moving averages (SMAs).
 
