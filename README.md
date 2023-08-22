@@ -71,14 +71,13 @@ Customize trading settings by modifying the `config.json` file. Adjust parameter
 
 Analyze the generated output to understand the performance of the algorithmic trading strategy. The output may include trading logs, profit/loss reports, and other relevant metrics.
 
-![1-11](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/57693cc8-d032-4de5-977b-9b4922fae082)
+![11](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/85959c43-1b94-4626-ab63-2d44796acfef)
 
-![1-2](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/3266eb73-025c-41bd-8ee1-e2c4eb960708)
+![12](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/bcd02e75-f096-4a93-a625-b79e8b17ee26)
 
-![1-3](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/cb6b5d91-ed4f-4d3a-aa86-60aa519403a7)
+![13](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/4efbb650-6d61-4417-936a-79353b6378bd)
 
-![1-4](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/889decda-6c57-42c5-8e01-f6ef895727fc)
-
+![14](https://github.com/KasaVarun/CryptoTradePyAlgorithm/assets/68395933/7ee2e15c-1732-40ca-b48e-35fdff75ade2)
 
 ## Contributing
 
